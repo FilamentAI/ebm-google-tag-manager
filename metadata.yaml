@@ -2,5 +2,5 @@ homepage: "https://enterprisebotmanager.com/"
 documentation: "https://enterprisebotmanager.com/chatbot-widget-builder/"
 versions:
   # Latest version
-  - sha: 11d8b59842c9197bbe0abd428ca1038ac7c0621f
+  - sha: b3404f525372312643dd10d6ef9742c3f0c0f520
     changeNotes: Initial version
