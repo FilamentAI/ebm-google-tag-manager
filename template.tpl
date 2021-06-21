@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Enterprise Bot Manager ( EBM )",
+  "categories": ["CHAT", "ADVERTISING", "CONVERSATIONS", "LEAD_GENERATION", "SALES"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
